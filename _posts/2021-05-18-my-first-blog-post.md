@@ -1,3 +1,3 @@
-title: Tester
 
-man collector beat seat on the reed 
+title: 'Amazing World of Gumball
+date: 2021-05-17
